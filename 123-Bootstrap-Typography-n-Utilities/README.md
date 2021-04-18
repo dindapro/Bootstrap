@@ -1,4 +1,4 @@
-# Bootstrap Buttons
+# Bootstrap Typography
 
 Go to Content > [Typography Documentation](https://getbootstrap.com/docs/4.6/content/typography/).
 
