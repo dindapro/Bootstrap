@@ -44,3 +44,9 @@ Size
 
 <button type="button" class="btn btn-primary btn-sm">Small button</button>
 ```
+
+Try other stuff 
+
+https://getbootstrap.com/docs/4.6/components/buttons/#active-state
+
+https://getbootstrap.com/docs/4.6/components/buttons/#disabled-state
