@@ -29,3 +29,18 @@ https://getbootstrap.com/docs/4.6/components/forms/#select-menu
   <option value="3">Three</option>
 </select>
 ```
+
+https://getbootstrap.com/docs/4.6/components/forms/#form-row
+
+```html
+<form>
+  <div class="form-row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="First name">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Last name">
+    </div>
+  </div>
+</form>
+```
